@@ -7,14 +7,14 @@ El color del borde del contador indica su estado: > rojo: desconectado. <br />
                                                   > amarillo: pendiente de aprovación. <br />
 Si no dispone de teléfono o forma de loguearse pulsar al boton de Actualizar estado. <br />
 
-V2.0_________________________________________________________________________________________________________ <br />
+V2.0-------------------------------------------------------------------------------------------------------------- <br />
 Una vez dentro hacer click en la imagen NO FUNCIONAL del qr para sacar el qr funcional. <br />
-_____________________________________________________________________________________________________________ <br />
+------------------------------------------------------------------------------------------------------------------ <br />
 
 
-V2.2.1-------------------------------------------------------------------------------------------------------- <br />
+V2.2.1------------------------------------------------------------------------------------------------------------ <br />
 Ahora el QR pequeño persistente también es escaneable. <br />
--------------------------------------------------------------------------------------------------------------- <br />
+------------------------------------------------------------------------------------------------------------------ <br />
 
 Libertad de sugerir mejoras y aportar bugs.<br />
 Cualquier sugerencia o problema dirijanse a mi persona o a mi correo juan.castrillo@alumnos.uneatlantico.es. <br />
