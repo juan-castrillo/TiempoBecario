@@ -8,12 +8,12 @@ El color del borde del contador indica su estado: > rojo: desconectado.
 Si no dispone de teléfono o forma de loguearse pulsar al boton de Actualizar estado.
 
 V2.0_________________________________________________________________________________________________________ <br />
-Una vez dentro hacer click en la imagen NO FUNCIONAL del qr para sacar el qr funcional.
+Una vez dentro hacer click en la imagen NO FUNCIONAL del qr para sacar el qr funcional. <br />
 _____________________________________________________________________________________________________________ <br />
 
 
 V2.2.1-------------------------------------------------------------------------------------------------------- <br />
-Ahora el QR pequeño persistente también es escaneable
+Ahora el QR pequeño persistente también es escaneable. <br />
 -------------------------------------------------------------------------------------------------------------- <br />
 
 Libertad de sugerir mejoras y aportar bugs.
