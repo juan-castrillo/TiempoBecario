@@ -5,11 +5,13 @@ Para entrar en la aplicación tan solo es necesario insertar en el campo de text
 El color del borde del contador indica su estado: - rojo: desconectado.
                                                   - verde: conectado.
                                                   - amarillo: pendiente de aprovación.
+Si no dispone de teléfono o forma de loguearse pulsar al boton de Actualizar estado.
 
 V2.0----------------------------------------------------------------------------------------------------------
 Una vez dentro hacer click en la imagen NO FUNCIONAL del qr para sacar el qr funcional.
 --------------------------------------------------------------------------------------------------------------
-Si no dispone de teléfono o forma de loguearse pulsar al boton de Actualizar estado.
+
+
 V2.2.1--------------------------------------------------------------------------------------------------------
 Ahora el QR pequeño persistente también es escaneable
 --------------------------------------------------------------------------------------------------------------
