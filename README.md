@@ -2,9 +2,9 @@
 Solo Becarios Uneatlantico
 
 Para entrar en la aplicación tan solo es necesario insertar en el campo de texto su nombre + "." + apellido.
-El color del borde del contador indica su estado: - rojo: desconectado.
-                                                  - verde: conectado.
-                                                  - amarillo: pendiente de aprovación. /n
+El color del borde del contador indica su estado: > rojo: desconectado.
+                                                  > verde: conectado.
+                                                  > amarillo: pendiente de aprovación. /n
 Si no dispone de teléfono o forma de loguearse pulsar al boton de Actualizar estado.
 
 V2.0----------------------------------------------------------------------------------------------------------
