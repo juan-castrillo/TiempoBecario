@@ -21,12 +21,19 @@ V2.2.3--------------------------------------------------------------------------
 Mejoras de rendimiento y resolución de bugs. <br />
 ------------------------------------------------------------------------------------------------------------------ <br />
 
+
 V2.3------------------------------------------------------------------------------------------------------------ <br />
 Compruebo de horas online. <br />
 Mejoras de estabilidad. <br />
 Solucionados conflictos con entradas en multiples aulas de beca. <br />
 ------------------------------------------------------------------------------------------------------------------ <br />
 
+
+V2.4------------------------------------------------------------------------------------------------------------ <br />
+Mejoras de rendimiento y optimización de procesos. <br />
+Qr en miniatura es exactamente el mismo al qr ampliado.  <br />
+Mejor uso de recursos en el sistema. <br />
+------------------------------------------------------------------------------------------------------------------ <br />
 Libertad de sugerir mejoras y aportar bugs.<br />
 Cualquier sugerencia o problema dirijanse a mi persona o a mi correo juan.castrillo@alumnos.uneatlantico.es. <br />
 Gracias por su contribución xd. <br />
